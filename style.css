@@ -1,0 +1,18 @@
+h1 {
+	font-size: 30px;
+	font-size-adjust: 0.7px;
+}
+
+label {
+	display: block;
+	font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+	margin: .4rem 0;
+}
+
+input {
+	border-radius: 30px;
+}
